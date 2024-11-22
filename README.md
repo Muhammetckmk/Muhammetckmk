@@ -30,7 +30,7 @@ Burada kodlama yolculuğuma dair projelerimi ve fikirlerimi paylaşıyorum.
 
 ## 📫 Bana Ulaşın  
 - 📧 E-posta: muhammetckmk46@gmail.com 
-- 💼 LinkedIn: linkedin.com/in/muhammetckmk
+- 💼 LinkedIn: [linkedin.com/in/muhammetckmk](https://www.linkedin.com/in/muhammetckmk?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEam12VKoSq60cGIhwNMMpA%3D%3D)
 
 
 ## ✨ GitHub İstatistikleri  
