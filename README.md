@@ -27,6 +27,3 @@ Burada kodlama yolculuğuma dair projelerimi ve fikirlerimi paylaşıyorum.
 ## ✨ GitHub İstatistikleri  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammetckmk&show_icons=true&theme=radical)  
 
-
-## 📊 GitHub İstatistiklerim
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammetckmk&show_icons=true&theme=radical)
